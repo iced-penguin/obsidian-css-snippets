@@ -1,0 +1,4 @@
+/* 空のヘッダーは表示しない */
+th:empty {
+    display: none;
+}
