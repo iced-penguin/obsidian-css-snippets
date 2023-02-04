@@ -1,0 +1,11 @@
+.frontmatter-section-label {
+    flex-basis: 8rem !important; 
+}
+
+.frontmatter-section-data-item {
+    color: white;
+}
+
+.frontmatter-container {
+    border-bottom: solid 0.1px gray;
+}
