@@ -9,3 +9,8 @@
 .markdown-preview-view h3 {
     font-size: 120%;
 }
+
+.markdown-preview-view h4 {
+    font-size: 100%;
+    font-weight: bold;
+}
